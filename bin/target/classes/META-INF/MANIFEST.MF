@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SwaggerSpringBootExample
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Hￃﾼsnￃﾼ
+Implementation-Vendor-Id: com.gmail.wguo1990
+Build-Jdk: 1.8.0_112
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.gmail.wguo1990.Application
+

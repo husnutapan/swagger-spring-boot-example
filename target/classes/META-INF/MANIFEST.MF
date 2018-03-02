@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SwaggerSpringBootExample
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Hüsnü
+Implementation-Vendor-Id: com.gmail.wguo1990
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Main-Class: com.gmail.wguo1990.Application
+
